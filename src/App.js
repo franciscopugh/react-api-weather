@@ -2,6 +2,7 @@ import React from 'react';
 
 import Titles from "./components/Titles";
 import Form from "./components/Form";
+import Weather from "./components/Weather";
 
 class App extends React.Component{
     render() {
@@ -9,6 +10,7 @@ class App extends React.Component{
             <div>
                 <Titles/>
                 <Form/>
+                <Weather/>
             </div>
         );
     }
