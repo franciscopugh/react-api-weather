@@ -17,3 +17,8 @@ http://localhost:3000/
 ```
 ## Screenshot 📌
 ![alt text](https://github.com/franciscopugh/react-api-weather/blob/master/docs/capture.jpg)
+
+## Deployment  📦
+_The deployment of the application was done by heroku_         
+
+[React Api Weather](https://react-api-weather-app.herokuapp.com/)

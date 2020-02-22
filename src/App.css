@@ -52,8 +52,8 @@ body {
 .form-container {
   background-color: DARKSLATEGRAY;
   height: 70vh;
-  width: 70vh;
-  padding-top: 100px;
+  width: 60vh;
+  padding-top: 80px;
   padding-left: 50px;
 }
 input[type="text"] {
